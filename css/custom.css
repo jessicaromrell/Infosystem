@@ -1,0 +1,53 @@
+body {
+    Color: rgb(34, 27, 54);
+    background-color: rgb(237, 237, 245);
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* padding:10px;
+    border: 5px solid black;
+    margin: 20px; */
+}
+
+h3 {
+    color: rgb(76, 83, 148);
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(32, 32, 77);
+    font-size: 25px;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    color: rgba(75, 75, 245, 0.418);
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    padding: 10 px;
+    border: 5px solid=black;
+    margin:20px;
+    border-radius: 30px;
+    
+}
+
+#topid {
+    color: rgb(21, 0, 99)
+}
+
+.whitebackgroundbox{
+    background-color:rgb(255, 255, 255)
+}
+.backgroundimage{
+    background-image: url("../images/Biking.jpg");
+    background-size: 500px;
+}
+
+
